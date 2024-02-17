@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+  <head>
+  
+  </head>
+  <body>
+    <p>Arshdeep Shergill
+Mississauga, ON Canada L4T 3G1
+Shergillarshdeepkaur42@gmail.com
+(437)776-4697.
+Education:
+Computer Engineering Technician
+Northern College at Pures, Toronto ON
+[sept, 2022] - [sept, 2024]
+Relevant Skills:
+● Proficient in conflict resolution and de-escalation techniques
+● Excellent interpersonal and communication skills
+● Sound knowledge of security procedures and protocols
+● Ability to handle stressful situations calmly and effectively
+● Strong attention to detail and observation skills
+● Familiarity with CCTV monitoring and access control systems
+Experience:
+Customer Service Representative
+Mcdonald, Woodbridge On ; Bolton ,On ; Mississauga ,On
+[sept, 2022] - current
+● Provided exemplary customer service by addressing inquiries, resolving issues,
+and ensuring customer satisfaction.
+● Handled a high volume of incoming calls and emails in a timely and professional
+manner.
+● Collaborated with team members to streamline processes and improve overall
+efficiency.
+● Maintained accurate records of customer interactions and transactions using CRM
+software.
+Certifications:
+● First Aid & CPR/AED level C
+● Private Security & Investigative Services
+</p>
+  </body>
+</html>
